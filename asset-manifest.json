@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/memory-pages/static/css/main.1edc43fb.css",
+    "main.js": "/memory-pages/static/js/main.b22e6a41.js",
+    "static/media/kep9.jpg": "/memory-pages/static/media/kep9.13cf7edc4af38bd7356b.jpg",
+    "static/media/kep13.jpg": "/memory-pages/static/media/kep13.65cb505d64c8e93550c2.jpg",
+    "static/media/kep18.jpg": "/memory-pages/static/media/kep18.b6945404e92dc82d97d0.jpg",
+    "static/media/kep15.jpg": "/memory-pages/static/media/kep15.69aea5a4c74d2739ffea.jpg",
+    "static/media/kep16.jpg": "/memory-pages/static/media/kep16.fd3d433c3af0869055d1.jpg",
+    "static/media/kep1.jpg": "/memory-pages/static/media/kep1.7f90639da2b136ffb594.jpg",
+    "static/media/kep5.jpg": "/memory-pages/static/media/kep5.9dcd51de4d6405a989a6.jpg",
+    "static/media/kep8.jpg": "/memory-pages/static/media/kep8.e3bc710c2534dfcf457d.jpg",
+    "static/media/kep12.jpg": "/memory-pages/static/media/kep12.440b31f91ced16d03c26.jpg",
+    "static/media/kep7.jpg": "/memory-pages/static/media/kep7.c022b009537994f4e4e9.jpg",
+    "static/media/kep14.jpg": "/memory-pages/static/media/kep14.f8abe27755ed4d957177.jpg",
+    "static/media/kep3.jpg": "/memory-pages/static/media/kep3.0ce80f2b81d586f82540.jpg",
+    "static/media/kep4.jpg": "/memory-pages/static/media/kep4.acde37f3bff8c18ac0ff.jpg",
+    "static/media/kep2.jpg": "/memory-pages/static/media/kep2.0d3c6fb25b780e2a7cbc.jpg",
+    "static/media/kep11.jpg": "/memory-pages/static/media/kep11.cb525790795123213cad.jpg",
+    "static/media/kep6.jpg": "/memory-pages/static/media/kep6.e8cd0152d58325d61b83.jpg",
+    "static/media/kep17.jpg": "/memory-pages/static/media/kep17.df82cc09ea39b1fadce8.jpg",
+    "static/media/kep10.jpg": "/memory-pages/static/media/kep10.ab5b296c73e5e62a759c.jpg",
+    "index.html": "/memory-pages/index.html",
+    "main.1edc43fb.css.map": "/memory-pages/static/css/main.1edc43fb.css.map",
+    "main.b22e6a41.js.map": "/memory-pages/static/js/main.b22e6a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1edc43fb.css",
+    "static/js/main.b22e6a41.js"
+  ]
+}
